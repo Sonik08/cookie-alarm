@@ -19,5 +19,5 @@ listenCookieChange(({oldValue, newValue})=> {
 }, 1000);
 
 HelloWOrld(){
-  console.log("fuck you mate")
+  console.log("fuck you mate");
 }
