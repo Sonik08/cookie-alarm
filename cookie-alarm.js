@@ -17,3 +17,7 @@ listenCookieChange(({oldValue, newValue})=> {
         message: `Cookie changes from "${oldValue}" to "${newValue}"`
     })
 }, 1000);
+
+HelloWOrld(){
+  console.log("fuck you mate")
+}
